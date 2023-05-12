@@ -1,0 +1,32 @@
+.table {
+  width: 80%;
+  border-collapse: collapse;
+  margin-top: 2rem;
+  margin-left: 10rem;
+}
+
+.one-skill-table {
+  width: 80%;
+  border-collapse: collapse;
+  margin-top: 2rem;
+}
+
+.table thead tr th {
+  vertical-align: top;
+  letter-spacing: 0.35px;
+  border: 1px solid #000;
+  text-align: center;
+  background-color: #5f8f06;
+  color: #fff;
+}
+
+.table tbody tr td {
+  letter-spacing: 0.35px;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #000;
+}
+
+.grey {
+  background-color: rgba(207, 202, 202, 0.336);
+}
