@@ -1,11 +1,11 @@
 import React from "react";
-import Navbar from "./components/Header";
 import Home from "./components/Home";
+import Header from "./components/Header";
 
 const App = () => {
   return (
     <>
-      <Navbar />
+      <Header />
       <Home />
     </>
   );
